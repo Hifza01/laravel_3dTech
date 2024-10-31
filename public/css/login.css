@@ -1,0 +1,58 @@
+body {
+    height: 100%;    
+    background-color: #EFF3FF;
+}
+
+.input-container {
+  display: flex;
+  width: 100%;
+  margin-bottom: 20px;
+  
+}
+
+.input-field {
+  width: 100%;
+  padding: 10px;
+  border-radius: 10px;
+  background-color: #EBF1F4;
+}
+
+.form-control {
+  width: 100%;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #EBF1F4;
+}
+
+.btn {
+  background-color: #42509B;
+  color: #FFFFFF;
+  padding: 10px 20px;
+  border: none;
+  width: 100%;
+  font-family: 'Inknut Antiqua', sans-serif;
+  font-size: 16px;
+}
+
+.card {
+    text-align: center;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    height: 420px;
+    border-radius: 10px;
+    padding: 40px;
+    background-color: #FFFFFF;    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;        
+}
+
+.img-fluid {
+  padding: 20px 20px;
+  width: 160px;
+  height: 140px;
+}
